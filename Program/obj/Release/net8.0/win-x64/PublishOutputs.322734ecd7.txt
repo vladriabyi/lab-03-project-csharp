@@ -1,0 +1,5 @@
+D:\mygit\lab-03-project-csharp\Program\bin\Release\net8.0\win-x64\publish\Program.exe
+D:\mygit\lab-03-project-csharp\Program\bin\Release\net8.0\win-x64\publish\appsettings.Development.json
+D:\mygit\lab-03-project-csharp\Program\bin\Release\net8.0\win-x64\publish\appsettings.json
+D:\mygit\lab-03-project-csharp\Program\bin\Release\net8.0\win-x64\publish\Program.pdb
+D:\mygit\lab-03-project-csharp\Program\bin\Release\net8.0\win-x64\publish\aspnetcorev2_inprocess.dll
